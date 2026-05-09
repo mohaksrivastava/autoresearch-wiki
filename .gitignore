@@ -1,0 +1,5 @@
+site/
+__pycache__/
+docs/
+mkdocs.yml
+test_docs/
