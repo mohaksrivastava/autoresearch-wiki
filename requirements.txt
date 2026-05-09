@@ -1,0 +1,11 @@
+PyPDF2
+python-docx
+beautifulsoup4
+pandas
+openpyxl
+anthropic
+google-generativeai
+mkdocs
+mkdocs-material
+mkdocs-table-reader-plugin
+pyyaml
